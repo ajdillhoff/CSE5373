@@ -1,0 +1,1 @@
+How many global memory requests are made by each warp?
